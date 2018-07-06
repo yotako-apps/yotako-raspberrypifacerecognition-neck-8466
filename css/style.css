@@ -1,0 +1,57 @@
+.main-wrapper {
+  margin-left: auto;
+  margin-right: auto;
+  width: 1200px
+}
+.style2 {
+  color: #274e13;
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 2.3125em;
+  font-weight: 700;
+  margin-left: 171px;
+  margin-top: 53px;
+  height: 53px
+}
+.fromdaterow1 {
+  display: flex;
+  margin-left: 241px;
+  margin-top: 25px;
+  width: 720px;
+  height: 45px;
+  align-items: stretch
+}
+.fromdaterow1unsupported1 {
+  margin-left: 0;
+  width: 150px
+}
+.fromdaterow1unsupported2 {
+  margin-left: 78px;
+  width: 150px
+}
+.style0 {
+  background-color: #6fa8dc;
+  border-left: 2px solid #000;
+  border-right: 2px solid #000;
+  border-top: 2px solid #000;
+  border-bottom: 2px solid #000;
+  box-shadow: 7px 7px 0 0 #000;
+  display: flex;
+  margin-left: 233px;
+  width: 110px;
+  align-items: stretch;
+  flex-direction: column;
+  justify-content: center
+}
+.style1 {
+  text-align: center;
+  font-family: BalsamiqSans,serif;
+  font-size: 1.25em;
+  height: 22px
+}
+.fromdateunsupported0 {
+  margin-left: 241px;
+  margin-top: 88px;
+  width: 720px;
+  height: 472px
+}
